@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **angular , .net**
 
-- 👨‍💻 All of my projects are available at https://my-portfolio-9kzw.onrender.com/
-
 - 💬 Ask me about **react, NodeJs**
 
 - 📫 How to reach me **proahmedashraf0@gmail.com**

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">A passionate Full Stack developer from Egypt</h3>
+<h3 align="center">🚀 Passionate Node.js Developer | Building Scalable Backend Solutions & Powering the Web's Future</h3>
 
 - 🌱 I’m currently learning **angular , .net**
 
-- 💬 Ask me about **react, NodeJs**
+- 💬 Ask me about **React**, **Node.js**, **JavaScript**, **TypeScript**, **Express**, **MongoDB**, **API Design**, and **Backend Architecture**
 
 - 📫 How to reach me **proahmedashraf0@gmail.com**
 
